@@ -1,6 +1,6 @@
 {
   "name": "realtime-weather-app",
-  "homepage": "https://jungang0414.github.io/weather"
+  "homepage": "https://jungang0414.github.io/weather",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
