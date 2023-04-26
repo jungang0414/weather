@@ -1,23 +1,18 @@
 {
   "short_name": "臺灣即時天氣",
   "name": "臺灣縣市即時天氣",
-  "icons": [
-    {
-      "src": "icon_@48.png",
-      "sizes": "image/png",
-      "type": "48x48"
-    },
-    {
-      "src": "icon_@96.png",
-      "type": "image/png",
-      "sizes": "96x96"
-    },
-    {
-      "src": "icon_@144.png",
-      "type": "image/png",
-      "sizes": "144x144"
-    }
-  ],
+    "icons": [
+      {
+        "src": "icon@192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icon@512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
   "start_url": ".",
   "display": "standalone",
   "orientation": "portrait-primary",
