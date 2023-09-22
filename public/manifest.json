@@ -13,7 +13,8 @@
         "sizes": "512x512"
       }
     ],
-  "start_url": ".",
+  "start_url": "/weather/",
+  "scope": "/weather/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "theme_color": "#1f2022",
