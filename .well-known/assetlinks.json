@@ -4,8 +4,19 @@
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.weather.jun.twa",
-      "sha256_cert_fingerprints":
-        ["91:85:E8:D0:62:CB:F3:13:B2:8F:DC:86:B8:E3:2B:EE:8A:CD:61:91:37:40:F7:62:B8:10:C8:F8:14:26:A7:91"]
+      "sha256_cert_fingerprints": [
+        "4F:4E:38:FB:04:F5:14:0A:3A:D4:3B:52:AB:CD:D9:D6:6C:78:CC:82:5C:40:16:59:8D:98:01:66:FE:AD:7E:0D"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.weather.jun.twa",
+      "sha256_cert_fingerprints": [
+        "91:85:E8:D0:62:CB:F3:13:B2:8F:DC:86:B8:E3:2B:EE:8A:CD:61:91:37:40:F7:62:B8:10:C8:F8:14:26:A7:91"
+      ]
     }
   }
 ]
