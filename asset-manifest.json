@@ -26,7 +26,8 @@
     "static/media/night-clear.svg": "/weather/static/media/night-clear.94eb7d671bc6d4dec6aa0b47038954df.svg",
     "main.08190a48.css.map": "/weather/static/css/main.08190a48.css.map",
     "main.97667fc7.js.map": "/weather/static/js/main.97667fc7.js.map",
-    "787.cfd742fd.chunk.js.map": "/weather/static/js/787.cfd742fd.chunk.js.map"
+    "787.cfd742fd.chunk.js.map": "/weather/static/js/787.cfd742fd.chunk.js.map",
+    "well-known": "/weather/assetlinks.json"
   },
   "entrypoints": [
     "static/css/main.08190a48.css",
