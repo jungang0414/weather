@@ -2,10 +2,9 @@
   "background_color": "#ffffff",
   "description": "臺灣好天氣-即時縣市天氣",
   "dir": "ltr",
-  "display": "standalone",
+  "display": "fullscreen",
   "name": "臺灣好天氣",
   "orientation": "any",
-  "scope": "/",
   "short_name": "臺灣好天氣",
   "start_url": "/",
   "theme_color": "#1f2022",
@@ -462,13 +461,5 @@
         "src": "ios/1024.png",
         "sizes": "1024x1024"
       }
-    ],
-    
-  "shortcuts": [
-    {
-      "name": "臺灣好天氣",
-      "url": "",
-      "description": ""
-    }
-  ]
+    ]
 }
